@@ -10,3 +10,7 @@ The project delves into the fundamental characteristics of the dataset, extracti
 
 Correlation Analysis
 By visually exploring relationships between different columns and the charges variable, the project aims to uncover potential correlations. Examining connections between variables provides valuable insights into how these factors interplay within the dataset and affect patient insurance costs.
+
+Find my Tableau of the data here: https://public.tableau.com/app/profile/rachel.wagner/viz/USMedicalInsuranceCosts/Dashboard1
+
+Data provided by Codecademy.com
